@@ -1,0 +1,9 @@
+{
+  "name": "NCB",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "ejs": "^3.1.5"
+  }
+}
